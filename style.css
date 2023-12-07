@@ -2,13 +2,32 @@ body {
     background: rgb(111, 9, 194)
  }
 
-p { 
+ #banner {
+      text-align: center;
+      width: 50%;
+      height: 50%;
+ }
+
+
+ p { 
     text-align: center;
     color: aqua;
     
  }
+
+ #missao {
+   font-size: 20px;
+ }
  
  h1 { 
     color: aqua;
+    text-align: center;
  }
  
+ .itens {
+      font-style: italic;
+ }
+
+ .beneficios { 
+    background: #FFFFFF;
+ }
